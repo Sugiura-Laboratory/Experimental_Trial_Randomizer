@@ -81,7 +81,7 @@ ID,Trial1,Trial2,Trial3
   
 ■ Special Thanks
 
-このプログラムは,オランダにある WEC (World Heritage Centre Wadden Sea) のアザラシのライブ配信を見ながら開発しました。
+このプログラムは，オランダにある WEC (World Heritage Centre Wadden Sea) のアザラシのライブ配信を見ながら開発しました。
 研究者や開発者の方でストレスを感じている方がいれば，ぜひ一度，WECのライブ映像をご覧ください。心が穏やかになるかもしれません。
 WECの活動に深い敬意と感謝を込めて。
 ※本プログラムは WEC とは一切関係がありません。
