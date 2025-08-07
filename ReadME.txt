@@ -9,7 +9,7 @@ README - app_Experimental_Trial_Randomizer.R（Shinyアプリ）
 ■ 概要
 
 この Shiny アプリは，心理学などの実験において使用される「提示時間（例：30秒, 45秒, 55秒）」の順序を，各被験者に対して，重複なし・ランダムに割り当て，CSVファイルとして出力できるツールです。
-CSV出力はUTF-8 BOM対応**のため，WindowsのExcelでも文字化けせず開けます。
+CSV出力はUTF-8 BOM対応のため，WindowsのExcelでも文字化けせず開けます。
 
 ---
   
