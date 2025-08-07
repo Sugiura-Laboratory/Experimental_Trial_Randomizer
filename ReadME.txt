@@ -32,7 +32,7 @@ CSV出力はUTF-8 BOM対応**のため，WindowsのExcelでも文字化けせず
 
 shiny::runApp("app_Experimental_Trial_Randomizer.R")
 
-3. GUIが起動したら、以下の項目を入力してください：
+3. GUIが起動したら，以下の項目を入力してください：
 
 - 被験者数（N）：例）100
 - 提示時間：例）30,45,55（カンマで区切る）
