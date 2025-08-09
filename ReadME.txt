@@ -1,3 +1,4 @@
+```
 ===========================================
 README - app_Experimental_Trial_Randomizer.R（Shinyアプリ）
 バージョン: 1.0.0
@@ -5,6 +6,7 @@ README - app_Experimental_Trial_Randomizer.R（Shinyアプリ）
 作成日: 2025-08-07
 コードネーム: Cerisier
 ===========================================
+```
   
 ■ 概要
 
