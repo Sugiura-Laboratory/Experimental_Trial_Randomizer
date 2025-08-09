@@ -60,7 +60,7 @@ ID,Trial1,Trial2,Trial3
 ■ ファイル構成
 
 - app_Experimental_Trial_Randomizer.R : アプリ本体（Rスクリプト）
-- README.txt : この説明ファイル
+- ReadME.txt : この説明ファイル
 
 ---
   
